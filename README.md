@@ -14,7 +14,7 @@
 
 ⚠️   *Your push operation may not work. If so you can use FORCE PUSH. How to do force push you can find in internet.* 
 
-⚠️ *The end of the exam is at **12:00**.* 
+⚠️ *The end of the exam is at **15:55**.* 
 
 ❌ *I will not accept links that are sent later than end of the exam*  
 
@@ -23,6 +23,9 @@
 ❌ *I will not accept links unless you post information about who you are.*
 
 ❌ *I will not accept links if the work will be done without a fork.*
+
+❌ *Use terminal commands to make a solution. I wil not accept solutions that will be done without terminal.*
+
 ## 
 
  ## Tasks:
@@ -33,4 +36,4 @@
 
 **Task 3️⃣:** Make ignoring of git of 1 any file and 1 any folder.
 
-**Task 4️⃣:** Switch to any commit. Take a screenshot of logs. Switch back without creating new branches. Save the screenshot and make commit.
+**Task 4️⃣:** Switch to any commit. Take a screenshot of logs. Switch back without creating new branches. Save the screenshot as a picture and make commit including that new file.
